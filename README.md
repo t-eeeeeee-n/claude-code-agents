@@ -22,7 +22,7 @@ All agents in this repo share three principles:
 
 ```bash
 # Clone somewhere you keep your tools
-git clone https://github.com/<your-username>/claude-code-agents.git
+git clone https://github.com/t-eeeeeee-n/claude-code-agents.git
 cd claude-code-agents
 
 # Install to your user Claude config
@@ -64,7 +64,7 @@ Usage guides, verification tests, and customization notes live in
 
 ## Companion: ui-bootstrap
 
-`ui-design-reviewer` pairs naturally with [ui-bootstrap](https://github.com/<your-username>/ui-bootstrap),
+`ui-design-reviewer` pairs naturally with [ui-bootstrap](https://github.com/t-eeeeeee-n/ui-bootstrap),
 a workflow kit for generating UI mocks from brand-inspired `DESIGN.md` files.
 The reviewer picks up where `ui-bootstrap`'s mechanical `/ui-mock-check` leaves
 off — catching semantic and cross-screen issues that grep alone cannot detect.
